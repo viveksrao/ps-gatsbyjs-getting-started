@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-hello-world",
+  "name": "ps-gatsbyjs-getting-started",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
+  "description": "A modern and complete static blog site built using GatsbyJS, React, and GraphQL and other modern technologies.",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
@@ -14,6 +14,10 @@
   },
   "dependencies": {
     "gatsby": "^2.13.3",
+    "gatsby-plugin-sass": "^2.1.0",
+    "gatsby-source-filesystem": "^2.1.2",
+    "gatsby-transformer-remark": "^2.6.1",
+    "node-sass": "^4.12.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   },
@@ -22,9 +26,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
+    "url": "https://github.com/viveksrao/ps-gatsbyjs-getting-started"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/viveksrao/ps-gatsbyjs-getting-started/issues"
   }
 }
